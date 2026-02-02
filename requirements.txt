@@ -1,0 +1,33 @@
+# Core Data Science & Analysis
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+
+# Statistical Analysis & Forecasting
+statsmodels
+scikit-learn
+
+# Dashboard & Visualization
+streamlit
+plotly
+dash
+dash-bootstrap-components
+
+# Data Processing & Utilities
+openpyxl  # For reading Excel files
+xlrd     # For older Excel files
+requests  # For downloading data from web
+beautifulsoup4  # For web scraping 
+lxml      # For XML parsing
+
+# Development Tools
+ipykernel
+jupyterlab
+black    # Code formatter 
+pytest    # Testing 
+
+# Environment Management
+python-dotenv  # For environment variables
+

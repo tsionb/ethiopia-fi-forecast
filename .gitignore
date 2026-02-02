@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# PyCharm
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Data Files (Large files - DO NOT upload to GitHub!)
+data/raw/           # Keep raw data local
+data/processed/     # Keep processed data local
+*.csv               # Unless small sample data
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.feather
+*.parquet
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env/
+.virtualenv/
+
+# System files
+*.swp
+*.swo
+*~
