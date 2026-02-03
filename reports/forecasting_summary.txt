@@ -1,0 +1,25 @@
+FINANCIAL INCLUSION FORECAST SUMMARY
+Generated: 2026-02-03 11:52
+Forecast Period: 2025-2027
+
+ACCOUNT OWNERSHIP FORECASTS:
+ year account_optimistic account_base account_pessimistic
+ 2025              67.2%        51.7%               36.2%
+ 2026              73.7%        56.7%               39.7%
+ 2027              76.4%        58.8%               41.1%
+
+DIGITAL PAYMENT FORECASTS:
+ year digital_optimistic digital_base digital_pessimistic
+ 2025              40.0%        38.0%               36.0%
+ 2026              45.0%        41.0%               37.0%
+ 2027              50.0%        44.0%               38.0%
+
+Key Insights:
+- Account ownership expected to reach 52-59% by 2027 (base scenario)
+- Digital payments growing faster, could reach 38-50% by 2027
+- Optimistic scenarios show potential to meet NFIS targets
+- Significant uncertainties in data and assumptions
+
+Methodology: Linear regression + scenario analysis
+Confidence Level: 95%
+Data Points: 5 (2011, 2014, 2017, 2021, 2024)
