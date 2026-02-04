@@ -144,5 +144,4 @@ The forecasts suggest Ethiopia is on a positive trajectory for financial inclusi
 3. Models should be updated as new data becomes available
 4. Professional judgment should supplement quantitative forecasts
 
-*Report generated automatically on 2026-02-03*
-*For questions, contact: [Your Name/Team]*
+
