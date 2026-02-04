@@ -195,7 +195,7 @@ Forecast Account Ownership (Access) and Digital Payment Usage for 2025–2027.
 
 ---
 
-##  Task 5: Interactive Dashboard** 
+##  Task 5: Interactive Dashboard 
 
 ### **Objective**
 Create an interactive dashboard for stakeholders to explore data, understand impacts, and view forecasts.
